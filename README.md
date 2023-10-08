@@ -1,0 +1,35 @@
+CTYPE html>
+<html>
+<head>
+    <title>Free Fire Account Buy and Sell</title>
+</head>
+<body>
+    <h1>Welcome to Hassan's Free Fire Account Marketplace</h1>
+    
+    <h2>About Us</h2>
+    <p>We are your trusted source for buying and selling Free Fire accounts. Whether you're looking to purchase an account with rare skins and items or want to sell your own account, we've got you covered.</p>
+    
+    <h2>Why Choose Us?</h2>
+    <p>Here are some reasons to choose us for your Free Fire account transactions:</p>
+    <ul>
+        <li>Large selection of high-quality accounts</li>
+        <li>Safe and secure transactions</li>
+        <li>Experienced and reliable sellers</li>
+        <li>24/7 customer support</li>
+        <li>Competitive prices</li>
+    </ul>
+
+    <h2>Buying an Account</h2>
+    <p>If you're interested in buying a Free Fire account, browse our listings to find the perfect account that suits your preferences. Contact the seller, negotiate the price, and complete the transaction securely through our platform.</p>
+
+    <h2>Selling an Account</h2>
+    <p>If you have a Free Fire account you'd like to sell, we can help you find a buyer. Create a listing for your account, provide details about its features and items, and wait for potential buyers to get in touch with you.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions or need assistance, please don't hesitate to reach out to us. You can contact us via whatsapp  <a href="whatsapp">03096895596</a> or through our customer support chat available 24/7.</p>
+    
+    <footer>
+        <p>&copy; 2023 Hassan's Free Fire Account Marketplace</p>
+    </footer>
+</body>
+</html>
